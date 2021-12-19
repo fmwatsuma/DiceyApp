@@ -30,7 +30,7 @@ class _DicePageState extends State<DicePage> {
             },
             child: Image.asset(
               "assets/dice$leftDiceNumber.png",
-              width: 155,
+              width: 154,
             ),
           ),
           GestureDetector(
@@ -39,7 +39,7 @@ class _DicePageState extends State<DicePage> {
             },
             child: Image.asset(
               "assets/dice$rightDiceNumber.png",
-              width: 155,
+              width: 154,
             ),
           ),
         ],
